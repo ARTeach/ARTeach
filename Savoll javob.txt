@@ -1,0 +1,69 @@
+1.Amper kuchi - bu elektr tokining magnit maydon yaratish qobiliyati. Uning o'lchovi nima?
++amper (A) 
++amper/metr (A/m)
++amper kvadrat/metr (A^2/m)
++amper kvadrat (A^2)
++B
+
+#2.Bir jinsli magnit maydonida tokli ramkani aylantiruvchi moment qiymati qanday formuladan topiladi?
++M=IABsinα
++M=IABcosα
++M=IABtanα
++M=IABcotα
++A
+
+#3.Chap qo'l qoidasi kim tomonidan kashf etilgan?
++Maksvell
++Faradey
++Oersted
++Ampere
++C
+
+#4.Elektr o'lchash asboblari qanday guruhlarga bo'linadi?
++analog va raqamli
++galvanik va elektromagnit
++doimiy va o'zgaruvchan
++aktiv va passiv
++A
+
+#5.Elektr tokining magnit maydon yaratish qobiliyati qaysi parametrlarga bog'liq?
++elektr tokning kuchi va yo'nalishi
++elektr tokning kuchi va uzunligi
++elektr tokning yo'nalishi va uzunligi
++elektr tokning kuchi, yo'nalishi va uzunligi
++D
+
+#6.Chap qo'l qoidasini ishlatish uchun nima kerak?
++elektr tokni o'tkazadigan sim
++magnit maydonni yaratadigan magnit
++elektr tok va magnit maydonni ko'rsatadigan o'q
++barchasi to'g'ri
++D
+
+#7.Bir jinsli magnit maydonida tokli ramkani aylantiruvchi moment ramkaning qaysi parametrlariga bog'liq?
++ramkaning kuchi va yuzasi
++ramkaning kuchi va o'lchami
++ramkaning yuzasi va o'lchami
++ramkaning kuchi, yuzasi va o'lchami
++D
+
+#8.Elektr o'lchash asboblari orasida qaysi asboblar doimiy elektr tokni o'lchaydi?
++ampermetr
++voltmetr
++om-metr
++barchasi to'g'ri
++A
+
+#9.Elektr tokining yo'nalishi bilan uning yaratgan magnit maydonning yo'nalishi orasidagi bog'lanishni aniqlash uchun qaysi qo'l qoidasidan foydalanish mumkin?
++chap qo'l qoidasi
++o'ng qo'l qoidasi
++ikki qo'l qoidasi
++barchasi noto'g'ri
++B
+
+#10.Bir jinsli magnit maydonida tokli ramkani aylantiruvchi moment ramkaning aylanish burchagini nolga tenglashga harakat qiladi.Bu fizikaviy hodisa nima?
++energiya saqlanishi qonuni	
++impuls saqlanishi qonuni
++moment saqlanishi qonuni
++barchasi to'g'ri
++C
